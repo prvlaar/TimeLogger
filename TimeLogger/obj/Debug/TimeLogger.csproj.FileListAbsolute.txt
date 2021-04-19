@@ -1,0 +1,17 @@
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\bin\Debug\TimeLogger.exe.config
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\bin\Debug\TimeLogger.exe
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\bin\Debug\TimeLogger.pdb
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.csprojAssemblyReference.cache
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\MainWindow.g.cs
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\App.g.cs
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger_MarkupCompile.cache
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger_MarkupCompile.lref
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\MainWindow.baml
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.g.resources
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.Properties.Resources.resources
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.csproj.GenerateResource.cache
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.csproj.CoreCompileInputs.cache
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.exe
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\TimeLogger.pdb
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\Schedule.g.cs
+C:\Users\Peter.Vlaar\source\repos\TimeLogger\TimeLogger\obj\Debug\Schedule.baml

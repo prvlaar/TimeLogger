@@ -1,0 +1,23 @@
+﻿<Window x:Class="TimeLogger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeLogger"
+        mc:Ignorable="d"
+        Title="TimeTracker" Height="144" Width="244" ResizeMode="NoResize" Topmost="True" Closing="Window_Closing" >
+    <Grid>
+        <TextBlock x:Name="TxtBlkDayCountdown" HorizontalAlignment="Left" Margin="10,29,0,0" TextWrapping="Wrap" Text="99:99:99" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <TextBlock x:Name="TxtBlkDayCountup" HorizontalAlignment="Left" Margin="10,53,0,0" TextWrapping="Wrap" Text="99:99:99" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <TextBlock x:Name="TxtBlkWeekCountdown" HorizontalAlignment="Left" Margin="158,28,0,0" TextWrapping="Wrap" Text="99:99:99" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <TextBlock x:Name="TxtBlkWeekCountup" HorizontalAlignment="Left" Margin="158,53,0,0" TextWrapping="Wrap" Text="99:99:99" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="BtnNewDay" Content="New Day" HorizontalAlignment="Left" Margin="10,77,0,0" Width="60" Height="20" VerticalAlignment="Top" Click="BtnNewDay_Click"/>
+        <Button x:Name="BtnPause" Content="P/R" HorizontalAlignment="Left" Margin="83,77,0,0" Width="56" Height="20" VerticalAlignment="Top" Click="BtnPause_Click"/>
+        <Button x:Name="BtnNewWeek" Content="New Week" HorizontalAlignment="Left" Margin="150,77,0,0" VerticalAlignment="Top" Width="70" Click="BtnNewWeek_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="19,13,0,0" TextWrapping="Wrap" Text="Today" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="170,13,0,0" TextWrapping="Wrap" Text="Week" VerticalAlignment="Top"/>
+        <TextBlock x:Name="TxtBlkRemaining" HorizontalAlignment="Left" Margin="78,31,0,0" TextWrapping="Wrap" Text=": Remaining :" VerticalAlignment="Top"/>
+        <TextBlock x:Name="TxtBlkTotal" HorizontalAlignment="Left" Margin="78,55,0,0" TextWrapping="Wrap"  Text=":     Total      :" VerticalAlignment="Top"/>
+        <TextBlock TextWrapping="Wrap" VerticalAlignment="Top" Margin="87,13,0,0" HorizontalAlignment="Left" Width="70"><Hyperlink Click="BtnSchedule_Click"><Run Text="Schedule"/></Hyperlink></TextBlock>
+    </Grid>
+</Window>
